@@ -1,0 +1,7 @@
+C:\Users\kummy\source\repos\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe.config
+C:\Users\kummy\source\repos\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.exe
+C:\Users\kummy\source\repos\Artificial Intelligence\Artificial Intelligence\bin\Debug\Artificial Intelligence.pdb
+C:\Users\kummy\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csprojResolveAssemblyReference.cache
+C:\Users\kummy\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.csproj.CoreCompileInputs.cache
+C:\Users\kummy\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.exe
+C:\Users\kummy\source\repos\Artificial Intelligence\Artificial Intelligence\obj\Debug\Artificial Intelligence.pdb
